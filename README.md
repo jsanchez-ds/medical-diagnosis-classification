@@ -1,3 +1,5 @@
+🌐 **English** · [Español](README.es.md)
+
 # Medical Diagnosis Classification — Breast Cancer Detection
 
 Binary classification on the **Wisconsin Breast Cancer** dataset (569 records, 30 features) to distinguish malignant from benign tumors. The analysis compares **SVM**, **Decision Tree** and **Naive Bayes** under two class-imbalance strategies (under-sampling and over-sampling), with hyperparameter tuning via GridSearchCV and 5-fold cross-validation.
